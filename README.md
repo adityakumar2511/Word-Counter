@@ -1,3 +1,5 @@
+Website live: https://adityakumar2511.github.io/Word-Counter/
+
 # ✍️ Word and Character Counter
 
 A simple and efficient tool to count **words** and **characters** from a given text input. Perfect for writers, students, bloggers, and anyone who needs quick word/character stats!
